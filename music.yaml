@@ -1,0 +1,190 @@
+# https://github.com/Packet255
+# October 10th, 2026 @ 5:09 PM UTC-6
+# Ferret's music.yaml rewrite
+
+0_0_0_actoninstinct: Act on Instinct
+    Extension: mp3
+0_0_1_nomercy: No Mercy
+    Extension: mp3
+0_0_2_industrial: Industrial
+    Extension: mp3
+0_0_3_wewillstopthem(deception): We Will Stop Them (Deception)
+    Extension: mp3
+0_0_4_radio: Radio
+    Extension: mp3
+0_0_5_ontheprowl: On the Prowl
+    Extension: mp3
+0_0_6_inthelineoffire: In the Line of Fire
+    Extension: mp3
+0_0_7_prepareforbattle: Prepare for Battle
+    Extension: mp3
+0_0_8_raininthenight: Rain in the Night
+    Extension: mp3
+0_0_9_target(akamechanicalman): Target (aka Mechanical Man)
+    Extension: mp3
+0_0_10_justdoitup: Just Do It Up
+    Extension: mp3
+0_0_11_cncthang: CNC Thang
+    Extension: mp3
+0_0_12_enemies(akatobefeared): Enemies (aka To Be Feared)
+    Extension: mp3
+0_0_13_fullstop(akawarfare): Full Stop (aka Warfare)
+    Extension: mp3
+0_0_14_introuble: In Trouble
+    Extension: mp3
+0_0_15_airstrike: Airstrike
+    Extension: mp3
+0_0_16_demolition: Demolition (Rare Track)
+    Extension: mp3
+0_0_17_fightwinprevail(raretrack): Fight, Win, Prevail! (Rare Track)
+    Extension: mp3
+0_0_18_marchtodoom(raretrack): March to Doom (Rare Track)
+    Extension: mp3
+0_0_19_justdoituppart2(raretrack): Just Do It Up (Rare Track)
+    Extension: mp3
+0_0_20_untamed: Untamed Land
+    Extension: mp3
+0_0_21_gdimaptheme(raretrack): GDI Map Theme (Rare Track)
+     Extension: mp3
+0_0_22_nodmaptheme(raretrack): Nod Map Theme (Rare Track)
+    Extension: mp3
+0_0_23_greatshot(raretrack): Great Shot! (Rare Track)
+    Extension: mp3
+0_0_24_nodscore(raretrack): Nod Score (Rare Track)
+    Extension: mp3
+0_0_25_80smix: CNC 80's Mix
+    Extension: mp3
+0_0_26_canyonchase: Canyon Chase
+    Extension: mp3
+0_0_27_takeemout: Take 'Em Out
+    Extension: mp3
+0_0_28_destructibletimes: Destructible Times
+    Extension: mp3
+0_0_29_die: Die
+    Extension: mp3
+0_0_30_reachingout: Reaching Out
+    Extension: mp3
+0_0_31_rideofthevalkyries: Ride of the Valkyries
+    Extension: mp3
+0_1_0_drill: Drill
+    Extension: mp3
+0_1_1_depthcharge: Depth Charge
+    Extension: mp3
+0_1_2_drone: Drone
+    Extension: mp3
+0_1_3_creepingupon: Creeping Upon
+    Extension: mp3
+0_1_4_ironfist: Iron Fist
+    Extension: mp3
+0_1_5_recon: Recon
+    Extension: mp3
+0_1_6_voicerhythm: Voice Rhythm
+    Extension: mp3
+1_0_0_hellmarch: Hell March
+    Extension: mp3
+1_0_1_radio2: Radio 2
+    Extension: mp3
+1_0_2_crush: Crush
+    Extension: mp3
+1_0_3_rollout: Roll Out
+    Extension: mp3
+1_0_4_mud: Mud
+    Extension: mp3
+1_0_5_twincannon: Twin Cannon
+    Extension: mp3
+1_0_6_facetheenemy2: Face the Enemy 2
+    Extension: mp3
+1_0_7_run: Run
+    Extension: mp3
+1_0_8_terminate: Terminate
+    Extension: mp3
+1_0_9_bigfoot: Big Foot
+    Extension: mp3
+1_0_10_workmen: Workmen
+    Extension: mp3
+1_0_11_militantforce: Militant Force
+    Extension: mp3
+1_0_12_dense: Dense
+    Extension: mp3
+1_0_13_vector: Vector
+    Extension: mp3
+1_0_14_smash: Smash
+    Extension: mp3
+1_0_15_redalertmenutheme(raretrack): Red Alert Menu Theme (Rare Track)
+    Extension: mp3
+1_0_16_facetheenemy1(raretrack): Face the Enemy 1 (Rare Track)
+    Extension: mp3
+1_0_17_fogger(raretrack): Fogger (Rare Track)
+    Extension: mp3
+1_0_18_reloadfire(raretrack): Reload Fire (Rare Track)
+    Extension: mp3
+1_0_19_snake(raretrack): Snake (Rare Track)
+    Extension: mp3
+1_0_20_surfnomercy(raretrack): Surf No Mercy (Rare Track)
+    Extension: mp3
+1_0_21_trenches: Trenches
+    Extension: mp3
+1_0_22_campaignmapselect: RA1 Campaign Map Select
+    Extension: mp3
+1_1_0_voicerhythm2.wav: Voice Rhythm 2
+    Extension: mp3
+1_1_1_underlyingthoughts: Underlying Thoughts
+    Extension: mp3
+1_1_2_thesecondhand: The Second Hand
+    Extension: mp3
+1_1_3_shutit: Shut It
+    Extension: mp3
+1_1_4_radio2remix: Radio 2 Remix
+    Extension: mp3
+1_1_5_chaos: Chaos
+    Extension: mp3
+1_1_6_backstab: Backstab
+    Extension: mp3
+1_1_7_arazoid: Arazoid
+    Extension: mp3
+1_2_0_wasteland: Wasteland
+    Extension: mp3
+1_2_1_traction: Traction
+    Extension: mp3
+1_2_2_thesearch: The Search
+    Extension: mp3
+1_2_3_runningthroughpipes: Running Through Pipes
+    Extension: mp3
+1_2_4_groundwire: Groundwire
+    Extension: mp3
+1_2_5_floating: Floating
+    Extension: mp3
+1_2_6_bog: Bog
+    Extension: mp3
+1_2_7_gloom: Gloom
+    Extension: mp3
+1_3_0_hellmarchremix: Hell March Remix
+    Extension: mp3
+1_3_1_crushremix: Crush Remix
+    Extension: mp3
+1_3_2_nomercyremix: No Mercy Remix
+    Extension: mp3
+1_3_3_mudremix: Mud Remix
+    Extension: mp3
+1_3_4_workmenremix: Workmen Remix
+    Extension: mp3
+1_3_5_afterlife: Afterlife
+    Extension: wav
+2_0_moi: March on Instinct
+    Extension: ogg
+2_1_moi2: March on Instinct 2
+    Extension: ogg
+2_2_gateway: Gateway
+    Extension: ogg
+2_3_malev: Malevolence
+    Extension: ogg
+2_4_subvn: Subversion
+    Extension: ogg
+2_5_drill: Drill (CA Remix)
+    Extension: ogg
+2_6_creep: Creeping Upon (CA Remix)
+    Extension: ogg
+2_7_radio2ca: Radio 2 (CA Remix)
+    Extension: ogg
+2_8_recon: Recon (CA Remix)
+    Extension: ogg
